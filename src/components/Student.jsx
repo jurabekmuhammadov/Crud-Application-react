@@ -159,9 +159,9 @@ class Student extends Component {
               id="filterInModal"
             >
               <option value="All">All</option>
-              <option value="React 32">React 32</option>
-              <option value="React 45">React 45</option>
-              <option value="React 18">React 18</option>
+              <option value="React N32">React N32</option>
+              <option value="React N45">React N45</option>
+              <option value="React N18">React N18</option>
             </select>
             <div className="dWork">
               <input
